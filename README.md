@@ -28,6 +28,6 @@ python fchanger.py
 # 실행 - Windows
 
 ```
-cd Downloads/FileRenamer-main
+cd Downloads\FileRenamer-main
 python fchanger.py
 ```
