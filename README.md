@@ -24,5 +24,5 @@ pip install PyQt5 pandas
 
 ```
 cd /Downloads/FileRenamer
-python fileRenamer.py
+python fchanger.py
 ```
