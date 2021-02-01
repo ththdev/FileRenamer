@@ -19,10 +19,15 @@ https://www.python.org/downloads/
 pip install PyQt5 pandas
 ```
 
-## 실행
+## 실행 - Mac
 ---
-
 ```
-cd /Downloads/FileRenamer
+cd /Downloads/FileRenamer-main
+python fchanger.py
+```
+
+## 실행 - Windows
+```
+cd Downloads/FileRenamer-main
 python fchanger.py
 ```
