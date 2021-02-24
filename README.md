@@ -15,19 +15,19 @@ https://www.python.org/downloads/
 - 터미널에 아래 명령어를 차례로 실행합니다.
 
 ```
-pip install PyQt5 pandas
+pip3 install PyQt5 pandas
 ```
 
 # 실행 - Mac
 
 ```
 cd /Downloads/FileRenamer-main
-python fchanger.py
+python3 fchanger.py
 ```
 
 # 실행 - Windows
 
 ```
 cd Downloads\FileRenamer-main
-python fchanger.py
+python3 fchanger.py
 ```
